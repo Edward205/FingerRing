@@ -1,4 +1,4 @@
-Open source one-handed VR/gaming controller in a ring form factor
+FingerRing, open source one-handed VR/gaming controller in a ring form factor
 Copyright (C) 2025  Edward205
 
                     GNU GENERAL PUBLIC LICENSE
